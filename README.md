@@ -39,6 +39,7 @@ Módulo II Introdução ao Git GitHub e criação de uma repositório para compa
 	Primeiros comandos;  
 	Ciclo de vida de um arquivo no Git;  
 	Resolvendo Conflitos;  
-##[Tech Education Otávio Reis](https://www.linkedin.com/in/operkles/)	
+##[Tech Education Otávio Reis](https://www.linkedin.com/in/operkles/)    
+
 ##[Tech Education Venilton Falvo Jr](https://www.linkedin.com/in/falvojr/)	
 

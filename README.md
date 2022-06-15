@@ -18,7 +18,7 @@ Durante o primeiro modulo tivemos treinamento que nos trouxe uma base da evoluç
 Passamos por treinamento;
 	Técnicas de Lógica de programação;
 	Fundamentos de algoritimos;
-	Linguagens de Programção;
+	Linguagens de Programação;
 	Desafios em portugol para criação de algoritimos.
 ##[Tech Education Juliana Mascarenhas](https://www.linkedin.com/in/juliana-mascarenhas-ds/)
 

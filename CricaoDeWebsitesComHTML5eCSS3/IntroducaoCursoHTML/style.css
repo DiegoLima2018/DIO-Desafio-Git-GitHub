@@ -1,0 +1,19 @@
+
+
+#title{
+    color: blue;
+}
+
+#subtitle{
+    color: brown;
+}
+
+#post_title{
+    color: chartreuse;
+}
+
+.post_title {
+    font-size: 16px;
+    font-style: italic;
+}
+
